@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\bin\Debug\net6.0\task0034.exe
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\bin\Debug\net6.0\task0034.deps.json
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\bin\Debug\net6.0\task0034.runtimeconfig.json
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\bin\Debug\net6.0\task0034.dll
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\bin\Debug\net6.0\task0034.pdb
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.AssemblyInfo.cs
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.dll
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\refint\task0034.dll
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.pdb
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\task0034.genruntimeconfig.cache
+C:\Users\User\Desktop\Git_education\c#dzsem5\task0034\obj\Debug\net6.0\ref\task0034.dll
